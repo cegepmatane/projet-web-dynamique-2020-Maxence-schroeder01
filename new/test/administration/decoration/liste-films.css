@@ -1,0 +1,51 @@
+#liste-film
+{
+	position: static;
+	width:50em;
+	background-color: #345;
+	padding:1em;
+}
+
+#liste-film .film
+{
+	position:relative;
+	background-color: gray;
+	border-radius:20px;
+	padding:1em;
+	margin-bottom:1em;
+	min-height:10em;
+}
+
+#liste-film .film *
+{
+	position:relative;
+}
+
+#liste-film .film .illustration
+{
+	position:absolute;
+	width:10em; height:10em;background-color:blue;
+}
+
+#liste-film .film .titre
+{
+	margin:0;
+	margin-left:9em;
+	background-color:gray;
+	padding:0;
+	font-size: 20px;
+}
+
+#liste-film .film .resume
+{
+	margin-left:11em;
+	font-size: 12px;
+}
+
+#liste-film .film .realisateur
+{
+	margin-left:11em;
+	font-style: italic;
+	font-weight:bold;
+	font-size: 16px;
+}
