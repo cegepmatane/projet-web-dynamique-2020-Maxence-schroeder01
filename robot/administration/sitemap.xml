@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://51.161.33.187/robot/liste-films.php</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/recherche.php</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/recherche-avancee.php</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/incription.html</loc>
+  <lastmod>2020-05-12T03:14:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/index.php</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/film.php?id=1</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/film.php?id=2</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/film.php?id=3</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/film.php?id=4</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/film.php?id=5</loc>
+  <lastmod>2020-05-12T03:39:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>http://51.161.33.187/robot/administration/liste-films.php</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/recherche.php</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/recherche-avancee.php</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/film.php?id=1</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/modifier_TF.php?id=1</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/supprimer_TF.php?id=1</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/film.php?id=2</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/modifier_TF.php?id=2</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/supprimer_TF.php?id=2</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/film.php?id=3</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/modifier_TF.php?id=3</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/supprimer_TF.php?id=3</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/film.php?id=4</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/modifier_TF.php?id=4</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/supprimer_TF.php?id=4</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/film.php?id=5</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/modifier_TF.php?id=5</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://51.161.33.187/robot/administration/supprimer_TF.php?id=5</loc>
+  <lastmod>2020-05-12T03:40:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+
+</urlset>

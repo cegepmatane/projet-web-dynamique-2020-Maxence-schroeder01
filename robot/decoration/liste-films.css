@@ -1,0 +1,135 @@
+#liste-film
+{
+	position: static;
+	width:50em;
+	background-color: #345;
+	padding:em;
+}
+
+#liste-film .film
+{
+	position:center;
+	background-color:gray;
+	border-radius:10px;
+	padding:1em;
+	margin-bottom:3em;
+	min-height:10em;
+}
+
+#liste-film .film *
+{
+	position:center;
+}
+
+#liste-film .film .illustration
+{
+	position: center;
+	width:10em; 
+	height:10em;
+	margin:0px;
+	border-radius:5px;
+}
+
+#liste-film .film .titre
+{
+	margin:10px;
+	margin-left:9em;
+	margin-top: -105px;
+	background-color:gray;
+	padding:0;
+	font-size: 20px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#liste-film .film .resume
+{
+	margin-left:11em;
+	font-size: 14px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#liste-film .film .realisateur
+{
+	margin-left:11em;
+	font-style: italic;
+	font-weight:bold;
+	font-size: 16px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button
+{
+	display: inline-block;
+	padding:0.3em 1.2em;
+	margin:0 0.3em 0.3em 0;
+	border-radius:2em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:#FFFFFF;
+	background-color:#aebec7;
+	text-align :center;
+	transition : all 0.1s;
+}
+button:hover
+{
+	background-color:#1c6911;
+	}
+@media all and (max-width:30em)
+{
+.button
+{
+display:block;
+margin:0.2em auto;
+}
+}
+.but1
+{
+	display: inline-block;
+	padding:0.3em 1.2em;
+	margin:0 0.3em 0.3em 0;
+	border-radius:2em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:#FFFFFF;
+	background-color:#1779b6;
+	text-align :center;
+	transition : all 0.1s;
+}
+.but2
+{
+	display: inline-block;
+	padding:0.3em 1.2em;
+	margin:0 0.3em 0.3em 0;
+	border-radius:2em;
+	box-sizing: border-box;
+	text-decoration:none;
+	font-family:'Roboto',sans-serif;
+	font-weight:300;
+	color:#FFFFFF;
+	background-color:#05141d;
+	text-align :center;
+	transition : all 0.1s;
+}
+#demotext {
+	color: #000000;
+	text-shadow: 2px 2px 0 #bcbcbc, 3px 3px 0 #9c9c9c;
+	font-size: 40px;
+	
+	}
+
+.sub{
+	color: #000000;
+	font-size: 16px;
+	margin-top: 10px;
+	margin-left: 100px;
+	text-size-adjust: auto;
+
+}
+.champs{
+	margin: 10px;
+	font-size: 18px;
+	margin-left: 2px;
+}
