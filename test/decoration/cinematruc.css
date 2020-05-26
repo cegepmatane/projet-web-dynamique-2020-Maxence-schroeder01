@@ -1,0 +1,57 @@
+#TF1
+{
+	position:relative;
+	width:50em;
+	background-color: #345;
+	padding:1em;
+}
+
+#TF1 .film
+{
+	position:relative;
+	background-color: gray;
+	border-radius:20px;
+	padding:2em;
+	margin-bottom:1em;
+	min-height:10em;
+}
+
+#TF1 .film *
+{
+	position:relative;
+}
+
+#TF1 .film .illustration
+{
+	position: center;
+	width:20em; 
+	height:20em;
+	border-radius:5px;
+}
+
+#TF1 .film .titre
+{
+	margin:10px;
+	margin-left:12em;
+	margin-top: -190px;
+	background-color:gray;
+	padding:0;
+	font-size: 20px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#TF1 .film .resume
+{
+	margin: 5px;
+	margin-left:15em;
+	font-size: 14px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#TF1 .film .realisateur
+{
+	margin-left:15em;
+	font-style: italic;
+	font-weight:bold;
+	font-size: 18px;
+}
